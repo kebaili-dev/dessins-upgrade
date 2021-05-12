@@ -1,0 +1,1 @@
+{"type":"svg","width":800,"height":600,"shapes":[{"class":"Drawing\\Shapes\\Rectangle","properties":{"x":100,"y":200,"color":"#b014db","opacity":0.8,"width":200,"height":300}},{"class":"Drawing\\Shapes\\Rectangle","properties":{"x":60,"y":100,"color":"#f339a6","opacity":0.8,"width":150,"height":150}}]}
